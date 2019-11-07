@@ -1,14 +1,3 @@
-# emacs ansi-term support
-if test -n "$EMACS"
-  set -x TERM eterm-color
-end
-
-# this function may be required by emacs.
-function fish_title
-    true
-end
-
-
 # Aliases
 function emc
     emacsclient -nca ''
@@ -21,4 +10,14 @@ function em
 end
 function emq
     emacs -Q
+end
+
+# emacs ansi-term support
+if test -n "$EMACS"
+  set -x TERM eterm-color
+end
+
+# this function may be required by emacs.
+function fish_title
+    true
 end
