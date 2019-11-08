@@ -1,0 +1,269 @@
+	Invalid argument: ''
+fish: Unknown command SETUVAR
+./fish_variables (line 3): 
+SETUVAR EDITOR:emacs
+^
+fish: Unknown command SETUVAR
+./fish_variables (line 4): 
+SETUVAR __fish_init_2_39_8:\x1d
+^
+fish: Unknown command SETUVAR
+./fish_variables (line 5): 
+SETUVAR __fish_init_2_3_0:\x1d
+^
+fish: Unknown command SETUVAR
+./fish_variables (line 6): 
+SETUVAR __fish_init_3_x:\x1d
+^
+fish: Unknown command SETUVAR
+./fish_variables (line 7): 
+SETUVAR _fish_abbr__2D_:cd\x20\x2d
+^
+fish: Unknown command SETUVAR
+./fish_variables (line 8): 
+SETUVAR _fish_abbr_ain:apt\x2dget\x20update
+^
+fish: Unknown command SETUVAR
+./fish_variables (line 9): 
+SETUVAR _fish_abbr_eeval:e\x20\x2d\x2deval
+^
+fish: Unknown command SETUVAR
+./fish_variables (line 10): 
+SETUVAR _fish_abbr_ein:emerge\x20\x2d\x2dask
+^
+fish: Unknown command SETUVAR
+./fish_variables (line 11): 
+SETUVAR _fish_abbr_em:emacs
+^
+fish: Unknown command SETUVAR
+./fish_variables (line 12): 
+SETUVAR _fish_abbr_emasc:emacs
+^
+fish: Unknown command SETUVAR
+./fish_variables (line 13): 
+SETUVAR _fish_abbr_emc:emacsclient\x20\x2dnca\x20\x27\x27
+^
+fish: Unknown command SETUVAR
+./fish_variables (line 14): 
+SETUVAR _fish_abbr_emcas:emacs
+^
+fish: Unknown command SETUVAR
+./fish_variables (line 15): 
+SETUVAR _fish_abbr_emk:emacs\x20\x2d\x2deval\x20\x27\x28kill\x2demacs\x29\x27
+^
+fish: Unknown command SETUVAR
+./fish_variables (line 16): 
+SETUVAR _fish_abbr_emq:emacs\x20\x2dQ
+^
+fish: Unknown command SETUVAR
+./fish_variables (line 17): 
+SETUVAR _fish_abbr_ese:emerge\x20\x2d\x2dsearch
+^
+fish: Unknown command SETUVAR
+./fish_variables (line 18): 
+SETUVAR _fish_abbr_ga:g\x20\x2dA5
+^
+fish: Unknown command SETUVAR
+./fish_variables (line 19): 
+SETUVAR _fish_abbr_gb:g\x20\x2dB5
+^
+fish: Unknown command SETUVAR
+./fish_variables (line 20): 
+SETUVAR _fish_abbr_gc:g\x20\x2dC5
+^
+fish: Unknown command SETUVAR
+./fish_variables (line 21): 
+SETUVAR _fish_abbr_gn:g\x20\x2dn
+^
+fish: Unknown command SETUVAR
+./fish_variables (line 22): 
+SETUVAR _fish_abbr_go:g\x20\x2do
+^
+fish: Unknown command SETUVAR
+./fish_variables (line 23): 
+SETUVAR _fish_abbr_gp:g
+^
+fish: Unknown command SETUVAR
+./fish_variables (line 24): 
+SETUVAR _fish_abbr_gpi:g\x20\x2di
+^
+fish: Unknown command SETUVAR
+./fish_variables (line 25): 
+SETUVAR _fish_abbr_gr:g\x20\x2dR
+^
+fish: Unknown command SETUVAR
+./fish_variables (line 26): 
+SETUVAR _fish_abbr_laod:load
+^
+fish: Unknown command SETUVAR
+./fish_variables (line 27): 
+SETUVAR _fish_abbr_load:load
+^
+fish: Unknown command SETUVAR
+./fish_variables (line 28): 
+SETUVAR _fish_abbr_ls:ls
+^
+fish: Unknown command SETUVAR
+./fish_variables (line 29): 
+SETUVAR _fish_abbr_os:ls
+^
+fish: Unknown command SETUVAR
+./fish_variables (line 30): 
+SETUVAR _fish_abbr_pg:ping\x20duckduckgo\x2ecom
+^
+fish: Unknown command SETUVAR
+./fish_variables (line 31): 
+SETUVAR _fish_abbr_pin:sudo\x20pacman\x20\x2dSyu
+^
+fish: Unknown command SETUVAR
+./fish_variables (line 32): 
+SETUVAR _fish_abbr_psg:ps\x20\x2de\x20o\x20pid\x2ccmd\x20\x7c\x20grep\x20\x2dPo\x20\x27\x2e\x7b0\x2c80\x7d\x27\x20\x7c\x20grep\x20\x2dPi
+^
+fish: Unknown command SETUVAR
+./fish_variables (line 33): 
+SETUVAR _fish_abbr_sl:ls
+^
+fish: Unknown command SETUVAR
+./fish_variables (line 34): 
+SETUVAR _fish_abbr_wifi:cd\x20/home/jose/bin/iw\x2dwrapper/\x3b\x20\x2e/internet\x2epl
+^
+fish: Unknown command SETUVAR
+./fish_variables (line 35): 
+SETUVAR _fish_abbr_xs:ssh\x20root\x40spensertruex\x2ecom
+^
+fish: Unknown command SETUVAR
+./fish_variables (line 36): 
+SETUVAR _fish_abbr_zgc:git\x20clone
+^
+fish: Unknown command SETUVAR
+./fish_variables (line 37): 
+SETUVAR _fish_abbr_zin:sudo\x20zypper\x20update
+^
+fish: Unknown command SETUVAR
+./fish_variables (line 38): 
+SETUVAR _fish_abbr_zs:/sudo\x3aroot\x40hp\x3a/
+^
+fish: Unknown command SETUVAR
+./fish_variables (line 39): 
+SETUVAR _fish_abbr_zwic:wifi\x20\x2d\x2dconnect
+^
+fish: Unknown command SETUVAR
+./fish_variables (line 40): 
+SETUVAR _fish_abbr_zxd:xinput\x20\x2d\x2ddisable
+^
+fish: Unknown command SETUVAR
+./fish_variables (line 41): 
+SETUVAR _fish_abbr_zxe:xinput\x20\x2d\x2denable
+^
+fish: Unknown command SETUVAR
+./fish_variables (line 42): 
+SETUVAR _fish_abbr_zxl:xinput\x20\x2d\x2dlist
+^
+fish: Unknown command SETUVAR
+./fish_variables (line 43): 
+SETUVAR fish_color_autosuggestion:555\x1ebrblack
+^
+fish: Unknown command SETUVAR
+./fish_variables (line 44): 
+SETUVAR fish_color_cancel:\x2dr
+^
+fish: Unknown command SETUVAR
+./fish_variables (line 45): 
+SETUVAR fish_color_command:005fd7
+^
+fish: Unknown command SETUVAR
+./fish_variables (line 46): 
+SETUVAR fish_color_comment:990000
+^
+fish: Unknown command SETUVAR
+./fish_variables (line 47): 
+SETUVAR fish_color_cwd:green
+^
+fish: Unknown command SETUVAR
+./fish_variables (line 48): 
+SETUVAR fish_color_cwd_root:red
+^
+fish: Unknown command SETUVAR
+./fish_variables (line 49): 
+SETUVAR fish_color_end:009900
+^
+fish: Unknown command SETUVAR
+./fish_variables (line 50): 
+SETUVAR fish_color_error:red\x1e\x2d\x2dbold
+^
+fish: Unknown command SETUVAR
+./fish_variables (line 51): 
+SETUVAR fish_color_escape:00a6b2
+^
+fish: Unknown command SETUVAR
+./fish_variables (line 52): 
+SETUVAR fish_color_history_current:\x2d\x2dbold
+^
+fish: Unknown command SETUVAR
+./fish_variables (line 53): 
+SETUVAR fish_color_host:normal
+^
+fish: Unknown command SETUVAR
+./fish_variables (line 54): 
+SETUVAR fish_color_match:\x2d\x2dbackground\x3dbrblue
+^
+fish: Unknown command SETUVAR
+./fish_variables (line 55): 
+SETUVAR fish_color_normal:normal
+^
+fish: Unknown command SETUVAR
+./fish_variables (line 56): 
+SETUVAR fish_color_operator:00a6b2
+^
+fish: Unknown command SETUVAR
+./fish_variables (line 57): 
+SETUVAR fish_color_param:00afff
+^
+fish: Unknown command SETUVAR
+./fish_variables (line 58): 
+SETUVAR fish_color_quote:999900
+^
+fish: Unknown command SETUVAR
+./fish_variables (line 59): 
+SETUVAR fish_color_redirection:00afff
+^
+fish: Unknown command SETUVAR
+./fish_variables (line 60): 
+SETUVAR fish_color_search_match:bryellow\x1e\x2d\x2dbackground\x3dbrblack
+^
+fish: Unknown command SETUVAR
+./fish_variables (line 61): 
+SETUVAR fish_color_selection:white\x1e\x2d\x2dbold\x1e\x2d\x2dbackground\x3dbrblack
+^
+fish: Unknown command SETUVAR
+./fish_variables (line 62): 
+SETUVAR fish_color_status:red
+^
+fish: Unknown command SETUVAR
+./fish_variables (line 63): 
+SETUVAR fish_color_user:brgreen
+^
+fish: Unknown command SETUVAR
+./fish_variables (line 64): 
+SETUVAR fish_color_valid_path:\x2d\x2dunderline
+^
+fish: Unknown command SETUVAR
+./fish_variables (line 65): 
+SETUVAR fish_key_bindings:fish_default_key_bindings
+^
+fish: Unknown command SETUVAR
+./fish_variables (line 66): 
+SETUVAR fish_pager_color_completion:\x1d
+^
+fish: Unknown command SETUVAR
+./fish_variables (line 67): 
+SETUVAR fish_pager_color_description:B3A06D\x1eyellow
+^
+fish: Unknown command SETUVAR
+./fish_variables (line 68): 
+SETUVAR fish_pager_color_prefix:white\x1e\x2d\x2dbold\x1e\x2d\x2dunderline
+^
+fish: Unknown command SETUVAR
+./fish_variables (line 69): 
+SETUVAR fish_pager_color_progress:brwhite\x1e\x2d\x2dbackground\x3dcyan
+^
