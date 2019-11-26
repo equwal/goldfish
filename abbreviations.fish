@@ -26,6 +26,7 @@ if status --is-interactive
     abbr -a ese emerge --search
 
     # misspellings
+    abbr -a eamcs emacs
     abbr -a os ls
     abbr -a dispath-conf dispatch-conf
     abbr -a laod load
