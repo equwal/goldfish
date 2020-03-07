@@ -1,4 +1,8 @@
 if status --is-interactive
+    # Make xclip work in X11's clipboard
+    abbr -a clip xclip -selection clipboard
+    abbr -a xclips xclip -selection clipboard
+
     # General aliases
     abbr -a fsv funcsave # since fed is what I use for emacs funced
     abbr -a sn sort -n
@@ -18,7 +22,6 @@ if status --is-interactive
 
     abbr -a pg ping duckduckgo.com
     ## Aliases from my Bash.
-    abbr wifi cd /home/jose/bin/iw-wrapper/\; ./internet.pl
     abbr emq emacs -Q
     # Aliases from my Eshell.
     # abbr -a ain apt-get update; apt-get upgrade; apt-get install
